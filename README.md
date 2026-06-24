@@ -1,2 +1,2 @@
 # primeiros-programas-do-GIT
-apenas aprendendo pogramaçao
+apenas aprendendo programaçao
